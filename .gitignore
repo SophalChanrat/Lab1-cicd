@@ -1,0 +1,15 @@
+# Dependencies (rebuilt from yarn.lock by `yarn install`)
+node_modules/
+
+# Generated coverage reports
+coverage/
+
+# Yarn 4 local files
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+.pnp.*
+
+# Logs and environment files
+*.log
+.env
